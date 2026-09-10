@@ -4,6 +4,18 @@
 
 ![VOID / PIN 首页](docs/assets/01-home.png)
 
+## 作品截图
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/assets/02-sector-map.png" alt="36 关星域航图"><br><sub>星域航图：六个区域与 36 个递进关卡</sub></td>
+    <td width="50%"><img src="docs/assets/04-gameplay.png" alt="探针发射实战"><br><sub>实战界面：观察三轴旋转并选择发射时机</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="docs/assets/05-observatory.png" alt="核心观测室"><br><sub>核心观测室：近距离检查结构、针体与机械轨道</sub></td>
+  </tr>
+</table>
+
 ## 作品定位与核心机制
 
 - **三轴角动量核心**：核心拥有独立的三轴变速自转、周期性角动量翻转与磁极偏角突变，呈现复杂的空间动态姿态。
